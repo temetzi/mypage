@@ -1,0 +1,17 @@
+.custom-image {
+    height: 400px;
+    max-width: fit-content;
+}
+
+.custom-col {
+    height: 300px;
+    background-color: grey;
+}
+
+.main {
+    background-color: grey;
+}
+
+p {
+    color: white;
+}
