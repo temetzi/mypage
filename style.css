@@ -5,11 +5,12 @@
 
 .custom-col {
     height: 300px;
-    background-color: grey;
+    background-color: rgba(0, 0, 0, 0.2);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .main {
-    background-color: grey;
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 p {
