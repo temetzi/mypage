@@ -1,3 +1,7 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 .custom-image {
     height: 400px;
     max-width: fit-content;
@@ -6,13 +10,12 @@
 .custom-col {
     height: 300px;
     background-color: rgba(0, 0, 0, 0.2);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .main {
     background-color: rgba(0, 0, 0, 0.2);
 }
 
-p {
+.para {
     color: white;
 }
